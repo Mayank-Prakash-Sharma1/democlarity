@@ -18,7 +18,86 @@ thumbnail = "images/building.png"
 
 ## Concept 1: Basic Formulae
 
-If a dishonest dealer professes to sell his goods at cost price, but uses false weight, then : <br><br>
+
+<!-- image for academic courses -->
+<img src="../../../images/night-moon.jpg" alt="static" style="width:10%;height:10%;">
+
+
+
+
+
+<!-- Table of contents for clarity theme -->
+<div class="toc-mak">
+  <br>
+  <b>Table of Contents</b> <br> <br>
+  <ul>
+  <li>Use Coding</li> <br>
+  <li>Content Management System (CMS)</li> <br>
+  <li>Static Site Generators</li> <br>
+  <li>Benefits of Static Site Generators</li> 
+  </ul>
+</div>
+
+
+
+<!-- Highlight box for clarity theme ...for both english/hindi posts -->
+<div class="toc-mak">
+  <!-- <img src="../../../images/pencil.png"> -->
+  <b>Arguments in favour and against</b><br>
+
+gvbhjbvhbjkjbhnj
+</div>
+
+<!-- warning for clarity theme websites ...for both english/hindi posts -->
+<div class="danger-mak">
+  <!-- <img src="../../../images/warning.png"> -->
+  <b>चेतावनी</b><br>
+
+चेतावनी चेतावनी
+</div>
+
+
+
+
+<!-- table -->
+<table>
+  <tr>
+    <th>Decrease in x</th>
+    <th>Increase in y</th>
+    <th>Change in z</th>
+  </tr>
+  <tr>
+    <td>16.66%</td>
+    <td>20%</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>20%</td>
+    <td>25%</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>25%</td>
+    <td>33.33%</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>33.33%</td>
+    <td>50%</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>50%</td>
+    <td>100%</td>
+    <td>0</td>
+  </tr>
+</table>
+
+<!-- Copy to Clipboard from div or span elements -->
+<!-- <div id="cp_spn">{{ partial "gtm" . }}</div> -->
+<span id="cp_spn">{{ partial "gtm" . }}</span>
+<button id="cp_btn" class="mak-button">Copy to Clipboard</button><br>
+
 
 ***hjhjbhjnj***
 
@@ -96,7 +175,9 @@ Explanation 4: Formula Method<br><br>
 
 If a dishonest dealer professes to sell his goods at cost price, but uses false weight, then :
 
-Gain percentage = $\frac{(True \hspace{1ex} weight − False \hspace{1ex} weight)}{(False \hspace{1ex} weight)}$ × 100% = (1000 −900)/900 × 100% = 100/900 × 100% = 11.11% 
+<p>
+Gain percentage = \(\frac{(True \hspace{1ex} weight − False \hspace{1ex} weight)}{(False \hspace{1ex} weight)}\) × 100% = (1000 −900)/900 × 100% = 100/900 × 100% = 11.11% 
+</p>
 
 </div>
 
@@ -228,9 +309,26 @@ Explanation 5: Short Trick Method  <br><br>
 
 Let C.P. = Rs. 100
 
-<img src="../../../media/profit-and-loss/dishonest-trader1.png" alt="dishonest trader - trick method" style="width:36%;height:36%;">
+<img src="../../../images/image-inline.png" alt="dishonest trader - trick method">
 
 Profit percentage = [(125 - 80) / 80] × 100% = (45/80) × 100% = 56.25%
 </div><br>
 
+##### Q. How many cubes are there in this cuboid?
+<pre>(a) 37%         (b) 37.5%          (c) 40.5%          (d) 60%</pre>
 
+Explanation:<br>
+<div class="Exp">
+
+Number of cubes = Number of cubes along the Height × Number of cubes along the Length × Number of cubes along the Width = 5 × 3 × 3 = 45
+</div> <br>
+
+dgfhgdfnhf
+
+sfdfdf
+dfdfdfdf
+
+
+dfdfdffdfdf
+
+<img src="../../../images/night-moon.jpg" alt="static" style="width:10%;height:10%;">
