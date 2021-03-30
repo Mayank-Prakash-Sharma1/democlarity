@@ -11,7 +11,7 @@ categories = [
     "themes",
     "syntax",
 ]
-series = ["Themes Guide"]
+series = ["Themes Guide","English"]
 aliases = ["migrate-from-jekyl"]
 thumbnail = "images/building.png"
 +++
