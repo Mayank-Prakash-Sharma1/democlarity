@@ -4,7 +4,7 @@ baseurl = "https://example.com/"  # Include trailing slash
 title = "Clarity"
 author = "Jane Doe"
 copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
-# canonifyurls = true
+canonifyurls = true
 paginate = 10
 theme = "hugo-clarity"
 # theme = ["github.com/chipzoller/hugo-clarity"]
@@ -12,15 +12,16 @@ theme = "hugo-clarity"
 disqusShortname = ""
 
 DefaultContentLanguage = "en"
-# [languages]
+[languages]
 # config/_default/languages.toml
 
 # [menus]
-# config/_default/menus/menu.xx.toml
+# config/_default/menus/menu.pt.toml
 
 [taxonomies]
 category = "categories"
 tag = "tags"
 series = "series"
 
+disableLanguageSwitchingButton = true
 

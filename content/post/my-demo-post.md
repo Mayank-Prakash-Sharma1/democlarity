@@ -14,6 +14,7 @@ categories = [
 series = ["Themes Guide","English"]
 aliases = ["migrate-from-jekyl"]
 thumbnail = "images/building.png"
+affiliatelink = "english_affiliate"
 +++
 
 featureImage: "images/2020-04/capv-overview/featured.jpg"
